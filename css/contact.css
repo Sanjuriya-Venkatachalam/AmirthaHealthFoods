@@ -1,0 +1,16 @@
+*
+{  
+    font-family: "Jost", sans-serif !important;
+}
+.container-fluid
+{
+        background-color: #61ce70;
+}
+.dropdown-menu
+{
+        background-color: #61ce70 !important;
+}
+.nav-link:hover,.dropdown-item:hover
+{
+    color: #ef1d3d !important;
+}
